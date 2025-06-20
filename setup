@@ -1,0 +1,13 @@
+# yum install git -y
+# mkdir work && cd work
+# git init
+# git add note.docx
+# git commit note.docx -m "first commit"
+# git config --global --edit
+# git commit --amend --reset-author
+# git remote add origin git@github.com:galaxyspaces77/new.git
+# git branch -M main
+# git push -u origin main
+# ssh-keygen -t rsa -b 4096 -C "galaxyspaces77@gmail.com"
+# cat /root/.ssh/id_rsa.pub
+# git push -u origin main
