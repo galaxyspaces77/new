@@ -11,3 +11,6 @@
 # ssh-keygen -t rsa -b 4096 -C "galaxyspaces77@gmail.com"
 # cat /root/.ssh/id_rsa.pub
 # git push -u origin main
+
+git config --global user.name "user name"
+git config --global user.email "galaxyspaces77@gmail.com"
